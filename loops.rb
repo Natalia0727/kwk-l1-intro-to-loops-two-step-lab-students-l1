@@ -24,7 +24,7 @@ def kwk_camp
   days=8
   loop do 
     if days==0
-    puts "camp is over!"
+    puts "Camp is over"
       break
     end 
     days=days-1
