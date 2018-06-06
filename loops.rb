@@ -23,7 +23,7 @@
 def kwk_camp
   days=8
   loop do 
-     days==1
+     if days==1
     puts "Camp is over"
       break
     end 
