@@ -28,7 +28,7 @@ def kwk_camp
       break
     end 
     days=days-1
-    puts "there are #{days} days left \nkeep coming to camp!"
+    puts "You have #{days} days left \nKeep coming to camp!"
   end 
 end
 kwk_camp
