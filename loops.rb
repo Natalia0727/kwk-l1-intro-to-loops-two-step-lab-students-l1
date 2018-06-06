@@ -21,14 +21,14 @@
 # dance
 
 def kwk_camp
-  days=9
+  days=8
   loop do 
     if days==0
     puts "camp is over!"
       break
     end 
     days=days-1
-    puts "there are #{days} days left"
+    puts "there are #{days} days left \n keep coming to camp!"
   end 
 end
 kwk_camp
