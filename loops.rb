@@ -21,7 +21,7 @@
 # dance
 
 def kwk_camp
-  days=11
+  days=10
   loop do 
     if days==0
     puts "camp is over!"
